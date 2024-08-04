@@ -1,0 +1,28 @@
+<head>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <script src="https://kit.fontawesome.com/e1f00da260.js" crossorigin="anonymous"></script>
+
+</head>
+<nav class="navbar navbar-expand-sm bg-dark navbar-dark">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="index.php">GuiDevs</a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#collapsibleNavbar">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="collapsibleNavbar">
+      <ul class="navbar-nav">
+        <li class="nav-item">
+          <a class="nav-link" href="p.php">proyectos realisados</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="d.php">datos del desarrollador</a>
+        <li>
+          <h6><a class="nav-link" href="https://wa.me/3462368526">preguntar precio</a>  </h6>
+
+</li>
+<li><i class="fa-brands fa-whatsapp" style="color: #00ff04;"></i></li>
+
+      </ul>
+    </div>
+  </div>
+</nav>
